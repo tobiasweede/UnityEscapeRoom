@@ -14,4 +14,4 @@ VarjoUnityXRPlugin: 3.1.0
 
 ## Tips
 * First, open the drawer in the desk with the key
-* Secodnd, open the brew kettle with the magic wand
+* Second, open the brew kettle with the magic wand
