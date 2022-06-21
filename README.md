@@ -6,6 +6,12 @@ Unity: 2021.3.2f1
 
 VarjoUnityXRPlugin: 3.1.0
 
+## Calibration
+
+* You see a gray screen. Press the button on the right of the HDM.
+
+![Calibration](buttons.jpg)
+
 ## Movement
 
 * Grab items via real grab motion on the controllers (knuckles)
