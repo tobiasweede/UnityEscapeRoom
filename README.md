@@ -10,12 +10,12 @@ VarjoUnityXRPlugin: 3.1.0
 
 * Grab items via real grab motion on the controllers (knuckles)
 
-![Grab with knuckles](grab.jpg)
+![Grab with knuckles](grab.png)
 
 * Teleport via joystick forward. A ray becomes visible. Aim for a teleporter on the ground and release.
 * Shoot via trigger button (index finger) on the controller (knuckles)
 
-![Teleport / Shoot with knuckles](teleport_shoot.jpg)
+![Teleport / Shoot with knuckles](teleport_shoot.png)
 
 ## Tips
 * First, open the drawer in the desk with the key
